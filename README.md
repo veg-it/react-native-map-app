@@ -27,7 +27,7 @@ Portfolio app with:
 
 	expo install react-native-gesture-handler react-native-reanimated
 
-### Babel settig for install Drawer Navigate
+### Babel setting for install Drawer Navigate
 	module.exports = { 
 		presets: [...],
 		plugins: [... , 'react-native-reanimated/plugin'],
